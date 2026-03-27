@@ -1,7 +1,6 @@
-echo "Hello World" > file1.txt
-
-git add file1.txt
-git commit -m "first file"
-git push origin main
-
-
+Hello World
+feature change
+main change
+This is second line
+Change from feature branch
+Change from main branch
